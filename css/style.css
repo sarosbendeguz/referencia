@@ -746,7 +746,7 @@ section#services .service-box {
 	transition: all 0.3s ease-in-out;
 }
 section#services .span3:hover {
-	background:#e3e3e3;
+	background: white;
 }
 
 section#services .service-box h2 {
@@ -755,7 +755,7 @@ section#services .service-box h2 {
 }
 
 section#services.section.orange .service-box:hover {
-	background:#f36518;
+	background: orange;
 }
 
 
